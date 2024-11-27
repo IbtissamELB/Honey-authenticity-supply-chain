@@ -21,12 +21,6 @@ Frontend : React
 Backend : Node.js
 Blockchain : Ganache & Brownie
 
-
-Clone the Repository:
-
-git clone https://github.com/yourusername/yourrepository.git
-
-
 ## Usage
 
 ### For Consumers:
