@@ -1,5 +1,4 @@
-# Honey-authenticity-supply-chain
-## Introduction
+# Honey-authenticity-supply-chain:
 
 This project aims to address the issues of honey authenticity and traceability by leveraging blockchain technology. The platform enables users to verify the origin and authenticity of honey products by scanning QR codes. It also provides a means for certified producers to authenticate their products and build trust with consumers.
 
